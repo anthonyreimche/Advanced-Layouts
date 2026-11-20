@@ -1,7 +1,7 @@
 {
   "id": "advanced-layouts",
   "name": "Advanced Layouts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Save a layout for one module at a time, combine them into workspaces, and manage both in one place: rename, duplicate, update, reorder, shortcuts, export and import. A layout you change shows as changed, with Update and Revert, instead of turning into Custom.",
   "author": "Anthony Reimche",
   "main": "dist/index.js",
